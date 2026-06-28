@@ -1,0 +1,4 @@
+strstreamlit
+plotly
+pypdf
+python-docx
